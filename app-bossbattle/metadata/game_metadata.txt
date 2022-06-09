@@ -1,0 +1,6 @@
+devid=GameExample
+devtitle=Game Example
+gameid=ABossBattleExample
+gametitle=A Boss Battle Example
+version=1.0
+icon=metadata/icon.png
